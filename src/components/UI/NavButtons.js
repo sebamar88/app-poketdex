@@ -5,27 +5,27 @@ import { Link } from "react-router-dom";
 const NavButtons = ({ functionOnClick }) => {
   const navButtonsArray = [
     {
-      name: "Pokédex",
+      name: "Pokedex",
       bgColor: "grass",
       route: "/pokedex",
     },
     {
-      name: "Search Moves",
+      name: "Buscar ataques",
       bgColor: "fire",
       route: "/moves",
     },
     {
-      name: "Search Pokémon",
+      name: "Buscar Pokemon",
       bgColor: "water",
       route: "/search",
     },
     {
-      name: "Who's that Pokémon?",
+      name: "Quién es este Pokemon?",
       bgColor: "ground",
       route: "/quiz",
     },
     {
-      name: "Types Combination",
+      name: "Combinación de tipos",
       bgColor: "poison",
       route: "/combination",
     },
@@ -73,10 +73,10 @@ const NavButtons = ({ functionOnClick }) => {
         _hover={{ opacity: 0.8 }}
         cursor="pointer"
         onClick={() =>
-          window.open("https://juanmaportfolio.netlify.app/", "_blank")
+          window.open("https://sebamar.site/", "_blank")
         }
       >
-        <Text color="white">About Me</Text>
+        <Text color="white">Acerca de mi</Text>
         <Image
           alt="pokeball"
           marginRight={-7}

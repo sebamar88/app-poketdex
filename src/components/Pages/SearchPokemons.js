@@ -19,7 +19,7 @@ const SearchPokemons = ({ limit = 100 }) => {
       <ToolBarPages />
 
       <Heading textAlign="center" mt={4}>
-        What Pokémon are you looking for?
+        Qué Pokemon estas buscando?
       </Heading>
       <AddPokemon setPokemons={setPokemons} />
       <Stack

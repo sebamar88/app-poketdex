@@ -30,7 +30,7 @@ const PokemonQuiz = () => {
       <ToolBarPages />
 
       <Heading textAlign="center" mt={4}>
-        Who's that Pokémon?
+        Quién es este Pokemon?
       </Heading>
       {loading ? (
         <Stack alignItems="center">

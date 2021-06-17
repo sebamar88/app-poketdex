@@ -45,7 +45,7 @@ export const AddPokemon = ({ setPokemons }) => {
             cursor="pointer"
           />
           <Input
-            placeholder="Search Pokémon by name or number"
+            placeholder="Busca tu Pokemon por nombre o por su número"
             type="text"
             isInvalid={error}
             errorBorderColor="crimson"
