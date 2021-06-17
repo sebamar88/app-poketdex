@@ -9,7 +9,7 @@ export const getMiniData = async (params) => {
     .then(({ id, types, sprites, name }) => {
       return {
         name,
-        image: sprites.other["official-artwork"].front_default,
+        image: sprites.other["dream_world"].front_default,
         id,
         types: types.map(({ type }) => type.name),
       };
