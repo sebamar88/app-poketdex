@@ -31,6 +31,6 @@ _Este proyecto se realizó con las siguientes herramientas:_
 
 ## Autor ✒️
 
-* [**Sebastián Martínez**](https://sebamar.site/) - *Fullstack* - [sebamar88](https://github.com/sebamar88) - [Portfolio](https://sebamar.site/)
+* [**Sebastián Martínez**](https://sebamar.site/) - *Fullstack* - [sebamar88](https://github.com/sebamar88) - [Portfolio](https://sebamar.site/portfolio)
 
 
