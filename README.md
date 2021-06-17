@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/67fd2490-9e42-4e32-bf82-39e1fbae41f7/deploy-status)](https://app.netlify.com/sites/sebamar-poketdex/deploys)
 
-# JuanmaPokedex
+# SebamarPoketdex
  Pokedex hecho con React Chakra UI (primera vez que lo utilizo) y PokeApi para la data pokemon.
  
 ## [Live Demo / Ver Demo](https://sebamar-poketdex.netlify.app/)   :computer:
@@ -31,6 +31,6 @@ _Este proyecto se realizó con las siguientes herramientas:_
 
 ## Autor ✒️
 
-* [**Sebastián Martínez**](https://sebamar.site/) - *Fullstack* - [sebamar88](https://github.com/sebamar88) - [Portfolio](https://sebamar.site/)
+* [**Sebastián Martínez**](https://sebamar.site/) - *Fullstack* - [sebamar88](https://github.com/sebamar88) - [Portfolio](https://sebamar.site/portfolio)
 
 
